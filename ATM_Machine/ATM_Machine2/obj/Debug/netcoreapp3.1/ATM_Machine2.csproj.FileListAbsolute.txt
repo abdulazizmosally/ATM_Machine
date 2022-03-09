@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\ATM_Machine2\ATM_Machine2\obj\Debug\netcoreapp3.1\ATM_Machine2.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\ATM_Machine2\ATM_Machine2\obj\Debug\netcoreapp3.1\ATM_Machine2.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\ATM_Machine2\ATM_Machine2\obj\Debug\netcoreapp3.1\ATM_Machine2.AssemblyInfo.cs
+C:\Users\USER\source\repos\ATM_Machine2\ATM_Machine2\obj\Debug\netcoreapp3.1\ATM_Machine2.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ATM_Machine2\ATM_Machine2\bin\Debug\netcoreapp3.1\ATM_Machine2.exe
+C:\Users\USER\source\repos\ATM_Machine2\ATM_Machine2\bin\Debug\netcoreapp3.1\ATM_Machine2.deps.json
+C:\Users\USER\source\repos\ATM_Machine2\ATM_Machine2\bin\Debug\netcoreapp3.1\ATM_Machine2.runtimeconfig.json
+C:\Users\USER\source\repos\ATM_Machine2\ATM_Machine2\bin\Debug\netcoreapp3.1\ATM_Machine2.runtimeconfig.dev.json
+C:\Users\USER\source\repos\ATM_Machine2\ATM_Machine2\bin\Debug\netcoreapp3.1\ATM_Machine2.dll
+C:\Users\USER\source\repos\ATM_Machine2\ATM_Machine2\bin\Debug\netcoreapp3.1\ATM_Machine2.pdb
+C:\Users\USER\source\repos\ATM_Machine2\ATM_Machine2\obj\Debug\netcoreapp3.1\ATM_Machine2.dll
+C:\Users\USER\source\repos\ATM_Machine2\ATM_Machine2\obj\Debug\netcoreapp3.1\ATM_Machine2.pdb
+C:\Users\USER\source\repos\ATM_Machine2\ATM_Machine2\obj\Debug\netcoreapp3.1\ATM_Machine2.genruntimeconfig.cache
